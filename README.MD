@@ -9,3 +9,6 @@
 ### Chapter 5
 -------------
 # ProjectOne-PNP GitHub repo 
+## Create AutoMaterial
+### Begin
+- https://www.youtube.com/watch?v=rw8qDmFGsRo&t=249s
