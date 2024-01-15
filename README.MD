@@ -11,4 +11,4 @@
 # ProjectOne-PNP GitHub repo 
 ## Create AutoMaterial
 ### Begin
-- https://www.youtube.com/watch?v=rw8qDmFGsRo&t=249s
+- Finish MF_Opacity start MF_DepthFade -> https://www.youtube.com/watch?v=rw8qDmFGsRo&t=471s
